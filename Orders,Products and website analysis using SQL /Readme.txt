@@ -16,3 +16,7 @@ The aim is to carry out different analysis pertaining to orders, products and pe
 "preparing_workbench_vApril2022" is used to address the configuration issues that can occur while setting up in Workbench.
 "create_mavenfuzzyfactory_vApril2022".Please open this file in workbench .It creates tables and insert values in them.
 
+https://drive.google.com/drive/folders/1jYMKdxWxFE-O3hN_akAOdVn5TElTfG0Z?usp=drive_link
+Above is the Google drive link for downloading the above 2 files.
+
+
