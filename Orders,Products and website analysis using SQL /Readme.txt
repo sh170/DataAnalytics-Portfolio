@@ -1,3 +1,6 @@
+This is a comprehensive SQL project in which i will be carrying out and studying orders , products , analyze website performance,etc.
+The platform used was Microsoft SQL Workbench.
+
 "mavenfuzzyfactory" is the name of The database:
 It contains six tables:
 
